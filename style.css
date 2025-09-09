@@ -6,9 +6,9 @@
 
 @font-face {
     font-family: 'coco';
-    src: url('/Fonts/CocoBiker\ Regular\ Trial.ttf') format('truetype');
-    src: url('/Fonts/CocoBiker\ Regular\ Trial.woff') format('woff');
-    src: url('/Fonts/CocoBiker\ Regular\ Trial.woff2') format('woff2');
+    src: url('Fonts/CocoBiker\ Regular\ Trial.ttf') format('truetype');
+    src: url('Fonts/CocoBiker\ Regular\ Trial.woff') format('woff');
+    src: url('Fonts/CocoBiker\ Regular\ Trial.woff2') format('woff2');
 }
 
 body {
